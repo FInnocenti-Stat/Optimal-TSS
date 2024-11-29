@@ -1,6 +1,6 @@
 # Optimal-TSS
 Innocenti F, Candel MJ, Tan FE, van Breukelen GJ. Optimal two-stage sampling for mean estimation in multilevel populations when cluster size is informative.
-Statistical Methods in Medical Research. 2021;30(2):357-375. https://doi.org/10.1002/sim.8070 
+Statistical Methods in Medical Research. 2021;30(2):357-375. https://doi.org/10.1177/0962280220952833
 
 R codes:
 1) simulation study
